@@ -1,23 +1,20 @@
 ---
 title: Sobre
-description: 'Hugo, o framework mais rápido do mundo para contruir páginas da web'
-author: Nome do autor
+description: 'Pentester e Eng. Software'
+author: yhk0
 ---
 
-Escrito em Go, Hugo é um gerador de sites estáticos de código aberto disponível sob a [Licença Apache 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo suporta os tipos de arquivos de dados TOML, YAML e JSON, arquivos de conteúdo em Markdown e HTML, e usa shortcodes para adicionar conteúdo rico. Outras funcionalidades notáveis incluem taxonomias, modo multilíngue, processamento de imagens, formatos de saída personalizados, minificação de HTML/CSS/JS e suporte para fluxos de trabalho com Sass e SCSS.
+Sou um pentester e engenheiro de software, atualmente trabalhando como desenvolvedor júnior. Com mais de 3 anos de experiência usando Golang e Python, eles se especializam na criação de soluções eficientes e seguras para vários desafios técnicos. 
 
-Hugo faz uso de uma variedade de projetos de código aberto, incluindo:
+Tenho um forte interesse na exploração de Linux e Windows, mergulhando profundamente em ambos os sistemas operacionais para descobrir vulnerabilidades e otimizar o desempenho. Eu participo ativamente de programas de recompensas por bugs(Bug Bounty), utilizo plataformas como TryHackMe e HackTheBox para aprimorar continuamente meus conhecimentos em segurança cibernética e programação. 
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Minha experiência está em combinar habilidades práticas de teste de penetração com desenvolvimento de software para criar ferramentas que contribuam para a comunidade de segurança.
 
-Hugo é ideal para blogs, sites corporativos, portfólios criativos, revistas online, aplicações de uma só página ou até mesmo um site com milhares de páginas.
+Alguns projetos meus:
 
-Hugo é para pessoas que desejam codificar seu próprio site sem se preocupar em configurar runtimes complicados, dependências e bancos de dados.
+* https://github.com/yhk0/xgofind
+* https://github.com/yhk0/psh
+* https://github.com/yhk0/luper
+* https://github.com/yhk0/MIXER
 
-Sites construídos com Hugo são extremamente rápidos, seguros e podem ser implantados em qualquer lugar, incluindo AWS, GitHub Pages, Heroku, Netlify e qualquer outro provedor de hospedagem.
-
-Saiba mais e contribua no [GitHub](https://github.com/gohugoio).
+Saiba mais e contribua no [GitHub](https://github.com/yhk0).
